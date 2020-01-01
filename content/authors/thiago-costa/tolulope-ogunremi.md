@@ -1,8 +1,8 @@
 +++
 avatar = ""
-bio = ""
+bio = "Maths and CS nerd."
 draft = true
-featured = false
+featured = true
 title = "Tolulope Ogunremi"
 [[social]]
 title = "Twitter"
